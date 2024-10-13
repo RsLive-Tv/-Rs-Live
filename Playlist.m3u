@@ -12,7 +12,7 @@ http://172.16.29.2:8080/hls/tsportsfhd.m3u8
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8  
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEchGXENuMwBTg5Fn1t9IGfcG3Cv0-WN1AOdgjbsIs7wCCvC0A980QHpAd&s=10",A Sports  	
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8 
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8  
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/3f28a637-5677-49fb-ad4d-126248820b5b.png?w=1200&f=PNG&p=true&q=60",TNT Sports 1
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_1/index.m3u8?googlekey=043116e09493e0dec594d8267a4014d3e662f03b5b04b1cf6ca447c822c48071&keyhash=043116e09493e0dec594d8267a4014d3e662f03b5b04b1cf6ca447c822c48071   
