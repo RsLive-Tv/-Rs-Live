@@ -15,10 +15,10 @@ http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8 
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/3f28a637-5677-49fb-ad4d-126248820b5b.png?w=1200&f=PNG&p=true&q=60",TNT Sports 1
-http://1.1usd.tv:34000/ch236/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNaqAirFMGhN7snmkusBGLPL6nWTZteIDWbfX9VCQlXS  
+https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_1/index.m3u8?googlekey=043116e09493e0dec594d8267a4014d3e662f03b5b04b1cf6ca447c822c48071&keyhash=043116e09493e0dec594d8267a4014d3e662f03b5b04b1cf6ca447c822c48071   
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFxkA5U96lAV8wVJsWYW25eF5cZtjuAh0arIBElPuatg&s", Discovery Bangla 	
-https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8 
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJEqOP35Q96sywZ0_HvCQ1I3vqOmDsmEvfpaCShS2EiIHmCFnEceYRuDTT&s=10", TNT Sports 2 	
+https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_2/tracks-v1a1/mono.m3u8?googlekey=4c13c61fdb00d600bf03d1691c77851a1663018de3e55659950e004b5c185bfc&keyhash=4c13c61fdb00d600bf03d1691c77851a1663018de3e55659950e004b5c185bfc  
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHTyIzNmreFModGvh9yt_YMNu6pIFwhKHgrRIK_4Cw8aAwxTQygmnfXIG5&s=10" group-title="Grope Name", Cannel Europe
 https://app.jagobd.com.bd/live-orgin/channeleurope.stream/playlist.m3u8  
