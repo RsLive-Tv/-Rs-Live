@@ -28,10 +28,10 @@ http://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
 https://global.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwiWwMF7vz1WjLFI5XDpn1gPsL8F_jekTnZxTTXNTAIBMb34zne0gpmfZa&s=10" group-title="Grope Name", Ekattor Tv
-http://tv.cloudcdn.me/live.ts?channelId=95&uid=13603&deviceMac=00:1A:79:64:B4:A6   
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=KY2qfLzVxNGECOExtmtNgg&expires=1729004946&user=d477246e9e724f81a011b847457e71c4    
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAyTdZ3CVtH8NgfCeE_strcxTltA0JsT3ggheYYSN3BtnuIbpqok2ELKU&s=10" group-title="Grope Name", Somoy News
-https://global.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8 
+https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=Ed5lDcSPtx5xiy0KYZBoRA&expires=1729005078&user=d477246e9e724f81a011b847457e71c4  
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS66EJbmWeAyj7uONQ56IXzLVS4FRNnpxUVDnhQ38noGL-ToulIcKSgalE&s=10" group-title="Grope Name", Movie Bangla 
 http://alvetv.com/moviebanglatv/8080/index.m3uT 
@@ -40,7 +40,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3uT
 https://mytvbangla.com/0.m3u8   
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW-CoN24BDOIYYKvxJdVTlmw93FG_9xEftf6SmIxPFwU2Wjz17bomQ0kDM&s=10" group-title="Grope Name", ATN Bangla
-http://176.119.29.52/live.ts?channelId=81&uid=10016&deviceMac=00:1A:79:20:6F:F3        
+https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=qw0uEByFDAnbwArnAmzOpQ&expires=1729004783&user=d477246e9e724f81a011b847457e71c4         
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQizCBUrNdaJoJoXYOM1IdUueKiR85NiRxp7I3u6_IWsnwLJ1GbiXeToZY&s=10" group-title="Grope Name", R Tv
 https://fifabd.xyz/STAR7c/RANAPK/star.php?id=51040 https://fifabd.xyz/STAR7c/RANAPK/star.php?id=51040     
